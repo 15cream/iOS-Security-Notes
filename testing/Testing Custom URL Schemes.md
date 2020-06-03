@@ -4,5 +4,5 @@
 
 
 
-![Testing Custom URL Schemes](../resources/Testing Custom URL Schemes.png)
+![Testing Custom URL Schemes](../resources/Testing_Custom_URL_Schemes.png)
 
