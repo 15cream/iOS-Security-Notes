@@ -4,4 +4,5 @@
 
 
 
-![Testing Custom URL Schemes](/Users/gjy/Downloads/Testing Custom URL Schemes.png)
+![Testing Custom URL Schemes](../resources/Testing Custom URL Schemes.png)
+
