@@ -1,6 +1,6 @@
 # iOS Wechat中二维码扫描
 
-起因是一个微信好友发一张二维码给我，问这是真是假（一个活动促销）。我去找了个二维码解析网站，解析出来的网址是：https://url.cn/d*********，是一个腾讯短网址。
+起因是一个微信好友发一张二维码给我，问这是真是假（一个活动促销）。我去找了个二维码解析网站，解析出来的网址是：https://url.cn/d*，是一个腾讯短网址。
 
 二维码打开后的活动界面如下。我不断点击识别二维码，剩余的名额总是诡异的递减1。
 
@@ -38,7 +38,7 @@ $("#show_num").html(getQuota());
 
 <img src="../resources/20200608/traffic1.png" alt="traffic1" style="zoom:50%;" />
 
-<img src="/Users/gjy/Documents/GitHub/iOS-Security-Notes/resources/20200608/traffic2.png" alt="traffic2" style="zoom:67%;" />
+<img src="../resources/20200608/traffic2.png" alt="traffic2" style="zoom:67%;" />
 
 
 
