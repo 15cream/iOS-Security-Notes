@@ -220,7 +220,7 @@ Artsy Folio中是通过storyboard配置的关联。
 
 通过frida-trace跟踪Artsy Folio的 -[UIControl addTarget:action:forControlEvents:]调用，以下是打开Artsy Folio时LOG IN界面注册的所有actions。
 
-![03](/Users/gjy/Documents/GitHub/iOS-Security-Notes/resources/20200612/03.png)
+![03](../resources/20200612/03.png)
 
 
 
