@@ -216,7 +216,7 @@ frame #19: 0x0000000188564360 libdyld.dylib`start + 4
 
 Artsy Folio中是通过storyboard配置的关联。
 
-![02](/Users/gjy/Documents/GitHub/iOS-Security-Notes/resources/20200612/02.png)
+![02](../resources/20200612/02.png)
 
 通过frida-trace跟踪Artsy Folio的 -[UIControl addTarget:action:forControlEvents:]调用，以下是打开Artsy Folio时LOG IN界面注册的所有actions。
 
